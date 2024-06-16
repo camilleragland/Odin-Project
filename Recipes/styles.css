@@ -1,0 +1,73 @@
+:root
+{
+    color-scheme: light dark;
+}
+
+h1
+{
+    text-align: center;
+}
+
+.menu
+{
+    list-style-type: none;
+    align-items: center;
+    
+}
+
+.menu li
+{
+    display: inline-block;
+}
+
+.active
+{
+    background-color: #6874E8;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.hero-img
+{
+    /* background-position: center; */
+}
+
+.recipe
+{
+    background-color: #e8e9f3;
+    color: #1C1B22;
+}
+p
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+.ingred
+{
+    text-align: center;
+}
+
+.ingred ul
+{
+    display: inline-block;
+    text-align: left;
+}
+
+.steps
+{
+    text-align: center;
+}
+
+.steps ol
+{
+    display: inline-block;
+    text-align: left;
+}
